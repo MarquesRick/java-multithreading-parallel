@@ -1,4 +1,4 @@
-package thread.intro;
+package thread.fundamentals.creation;
 
 public class ThreadIntroExceptionMain {
     public static void main(String[] args) {
