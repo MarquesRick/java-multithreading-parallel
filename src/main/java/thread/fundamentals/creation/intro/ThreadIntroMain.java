@@ -1,4 +1,4 @@
-package thread.fundamentals.creation;
+package thread.fundamentals.creation.intro;
 
 public class ThreadIntroMain {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class ThreadIntroMain {
                 System.out.println("Current thread priority is " + Thread.currentThread().getPriority());
             }
         });
-
+        
         thread.setName("New Worker Thread"); //rename thread
 
         thread.setPriority(Thread.MAX_PRIORITY); //set priority for thread
