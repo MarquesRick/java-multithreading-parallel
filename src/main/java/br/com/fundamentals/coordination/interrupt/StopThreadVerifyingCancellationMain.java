@@ -1,4 +1,4 @@
-package thread.fundamentals.coordination.interrupt;
+package br.com.fundamentals.coordination.interrupt;
 
 import java.math.BigInteger;
 

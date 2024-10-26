@@ -1,4 +1,4 @@
-package thread.fundamentals.creation.finaltest;
+package br.com.fundamentals.creation.finaltest;
 
 import java.util.ArrayList;
 import java.util.Arrays;

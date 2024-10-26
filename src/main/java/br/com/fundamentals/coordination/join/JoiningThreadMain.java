@@ -1,4 +1,4 @@
-package thread.fundamentals.coordination.join;
+package br.com.fundamentals.coordination.join;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

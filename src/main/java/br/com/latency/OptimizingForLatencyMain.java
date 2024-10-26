@@ -1,4 +1,4 @@
-package optmization.latency;
+package br.com.latency;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;

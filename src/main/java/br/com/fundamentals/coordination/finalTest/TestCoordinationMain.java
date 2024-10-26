@@ -1,4 +1,4 @@
-package thread.fundamentals.coordination.finalTest;
+package br.com.fundamentals.coordination.finalTest;
 
 import java.math.BigInteger;
 /*

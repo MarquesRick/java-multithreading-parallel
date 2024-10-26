@@ -1,4 +1,4 @@
-package thread.fundamentals.creation.inheritance;
+package br.com.fundamentals.creation.inheritance;
 
 import java.util.ArrayList;
 import java.util.List;

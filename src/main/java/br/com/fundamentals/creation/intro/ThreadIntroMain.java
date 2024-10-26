@@ -1,4 +1,4 @@
-package thread.fundamentals.creation.intro;
+package br.com.fundamentals.creation.intro;
 
 public class ThreadIntroMain {
     public static void main(String[] args) {

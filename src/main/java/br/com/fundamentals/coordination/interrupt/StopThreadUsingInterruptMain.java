@@ -1,4 +1,4 @@
-package thread.fundamentals.coordination.interrupt;
+package br.com.fundamentals.coordination.interrupt;
 
 public class StopThreadUsingInterruptMain {
     public static void main(String[] args) {
