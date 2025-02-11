@@ -6,3 +6,9 @@ To illustrate a case where more than two threads are running, we have created an
 ## Daemon threads
 background threads that do not prevent the application from existing if the main thread terminates.
 If the main thread is terminated, the daemon thread will also be terminated.
+
+## Sincronized - Monitor
+It's a "monitor" that avoid a concurrency threads to make changes simultaneously in the same object.
+The sincronized works like this:
+- Locking mechanism
+- Used to restrict access to a critical section or entire method to a single thread at a time
