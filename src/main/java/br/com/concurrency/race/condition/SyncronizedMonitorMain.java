@@ -1,4 +1,4 @@
-package br.com.concurrency;
+package br.com.concurrency.race.condition;
 
 
 /**
